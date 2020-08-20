@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is **Christopher Nethercott**! I am about to undertake a Masters of Mathematics at the University of York. 
+
 
 <!--
 **chriscn/chriscn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
