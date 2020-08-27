@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hello World 👋
 My name is **Christopher Nethercott**! I am about to undertake a Masters of Mathematics at the University of York. 
-
+### Projects
+#### Minecraft / Spigot
+- [StaffChat](https://github.com/chriscn/StaffChat) - a simple way for your staff members to communicate securely.
+- [:building_construction: StaffTicket](https://github.com/chriscn/StaffTicket) - allow your users to contact you with issues.
+### Contact
+I am always around for giving help or advice. I enjoy programming for Minecraft Servers so will happily help yyou
 
 <!--
 **chriscn/chriscn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
