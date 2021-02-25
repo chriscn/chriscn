@@ -1,23 +1,8 @@
-### Hello World 👋
-My name is **Christopher Nethercott**! I am about to undertake a Masters of Mathematics at the University of York. 
+## Hello World
+My name is **Christopher Nethercott**, I am currently studying for a Masters of Mathematics at the University of York. I began my programming journey around 2014 writing simple Bukkit plugins; although mathematics is my main field of study I enjoy programming espically realating to Minecraft.
 ### Projects
 #### Minecraft / Spigot
 - [StaffChat](https://github.com/chriscn/StaffChat) - a simple way for your staff members to communicate securely.
-- [:building_construction: StaffTicket](https://github.com/chriscn/StaffTicket) - allow your users to contact you with issues.
+- [:building_construction: StaffTicket](https://github.com/chriscn/StaffTicket) - currently undergoing a major rewrite.
 ### Contact
-I am always around for giving help or advice. I enjoy programming for Minecraft Servers so will happily help yyou
-
-<!--
-**chriscn/chriscn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The easiest way to contact me is via [email](mailto:ccnethercott@gmail.com); I like doing both voluntary and paid positions.
