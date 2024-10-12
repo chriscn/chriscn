@@ -1,2 +1,2 @@
 # Christopher Nethercott
-I'm currently studying Mathematics at the University of York. 
+I'm currently working as a Linux Infrastructure Engineer for the University of York.
